@@ -7,7 +7,7 @@ from builtins import print
 
 import requests
 import urllib.request
-
+   
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from flask import Flask, request
